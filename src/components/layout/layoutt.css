@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(76, 131, 213);
+    padding: 15px;
+}
+
+.the-tittle-layout h1 {
+    color: white;
+    font-family: "Fredoka", sans-serif;
+}
+
+.the-subtittle-layout h3 {
+    color: white;
+    font-family: "Fredoka", sans-serif;
+}

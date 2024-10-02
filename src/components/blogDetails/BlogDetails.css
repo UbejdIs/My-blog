@@ -1,0 +1,30 @@
+.blog-details {
+    margin: 20px;
+  }
+  
+  .blog-details h1 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: "Fredoka", sans-serif;
+  }
+  
+  .blog-details img {
+    width: 100%;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .blog-details p {
+    margin-bottom: 10px;
+    font-family: "Fredoka", sans-serif;
+  }
+  
+  .read-more-button {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
